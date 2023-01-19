@@ -1,4 +1,4 @@
-# Marketing-campaign-performance-EDA
+# Marketing-campaign-performance-Optimization
 This is a personal project to compare three ad campaigns on Facebook and help optimizing the conversion rate.
 **scenario:**
 - our agency is running social media ad campaign to promote a product, the campaign includes 3 main promotions and many facebook ads, we would like to know our audience better to know the best category to target, and which campaign is doing the best.
